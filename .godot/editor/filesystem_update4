@@ -1,0 +1,14 @@
+res://assets/LICENSE & CREDITS.txt
+res://scenes/game.tscn
+res://scenes/player.tscn
+res://scripts/player.gd
+res://scenes/platform.tscn
+res://scenes/coin.tscn
+res://scripts/coin.gd
+res://scenes/kiillzone.tscn
+res://scripts/kiillzone.gd
+res://scenes/slim.tscn
+res://scripts/slim.gd
+res://scripts/game_manager.gd
+res://default_bus_layout.tres
+res://scenes/music.tscn
